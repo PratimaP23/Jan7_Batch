@@ -38,8 +38,9 @@ public class Pattern_7_Sheet {
 			}
 		}
 		System.out.println();
-        row=row+1;
+                row=row+1;
 	}
 
-}
+    }
+	
 }
