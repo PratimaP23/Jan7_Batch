@@ -32,8 +32,6 @@ public class Grading_of_marks {
 			
 		}
 		
-		
-
 	}
 
 }
