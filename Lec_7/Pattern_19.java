@@ -48,5 +48,7 @@ public class Pattern_19 {
 			System.out.println();
 			row=row+1;
 		}
-		}
-        }
+		
+	}
+
+}	
