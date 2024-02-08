@@ -48,6 +48,7 @@ public class Pattern_9 {
 			nsp = nsp - 1;
 			nst = nst + 2;
 
+			row = row + 1;
 			System.out.println();
 
 		}
