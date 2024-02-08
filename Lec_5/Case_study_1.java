@@ -42,7 +42,6 @@ public class Case_study_1 {
 			i=i+1;
 		}
 		
-
 	}
 
 }
