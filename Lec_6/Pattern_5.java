@@ -37,5 +37,6 @@ public class Pattern_5 {
 			row=row+1;
 		}
 		
-		}
 	}
+	
+}	
