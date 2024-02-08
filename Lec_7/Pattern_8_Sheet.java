@@ -12,8 +12,8 @@ public class Pattern_8_Sheet {
 		
 		int row=1;
 		int nst=1;
-        int nsp1=0;
-		int nsp2=(n+1)/2;
+                int nsp1=0;
+		int nsp2=n-2;
 		
 		while(row<=n) {
 			//space1
@@ -46,15 +46,13 @@ public class Pattern_8_Sheet {
 			//Preparation for the next row
 			if(row<(n/2)+1) {
 				nsp1=nsp1+1;
-				nst=nst;
 				nsp2=nsp2-2;
 			}else {
 				nsp1=nsp1-1;
-				nst=nst;
 				nsp2=nsp2+2;
 			}
-		System.out.println();	
-		row=row+1;	
+		       System.out.println();	
+		       row=row+1;	
 		}
 
 	}
