@@ -51,6 +51,6 @@ public class Pattern_20_Sheet {
 	    	row=row+1;
 	    }
 	    
-		
-	}
+      }
+
 }
