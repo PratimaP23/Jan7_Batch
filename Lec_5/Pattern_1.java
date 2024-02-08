@@ -18,11 +18,6 @@ public class Pattern_1 {
 			nst=nst+1;
 		}
 		
-		
-		
-		
-		
-
 	}
 
 }
