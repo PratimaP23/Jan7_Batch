@@ -42,9 +42,9 @@ public class Pattern_11_Sheet {
 				
 				System.out.println("");
 				row=row+1;
+	
 			}
 			
-
 	}
 
 }
