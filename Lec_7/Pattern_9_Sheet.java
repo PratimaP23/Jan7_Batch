@@ -38,6 +38,6 @@ public class Pattern_9_Sheet {
 			System.out.println("");
 			row=row+1;
 		}
-}
+      }
 		
 }
