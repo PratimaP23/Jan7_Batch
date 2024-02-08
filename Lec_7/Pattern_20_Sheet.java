@@ -43,10 +43,10 @@ public class Pattern_20_Sheet {
 	    	if(row<(n+1)/2) {
 	    		nsp1=nsp1-1;
 	    		nsp2=nsp2+2;
-	    	}
-	    	nsp1=nsp1+1;
-    		nsp2=nsp2-2;
-    		
+	    	}else{
+	    	        nsp1=nsp1+1;
+    		        nsp2=nsp2-2;
+		}
 	    	System.out.println();
 	    	row=row+1;
 	    }
