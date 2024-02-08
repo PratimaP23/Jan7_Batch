@@ -26,11 +26,6 @@ public class Pattern_1 {
 			System.out.println();
 			row=row+1;
 			
-         
-			
-			
-			
-			
 		}
 
 	}
