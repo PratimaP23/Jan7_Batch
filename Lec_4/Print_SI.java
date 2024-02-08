@@ -14,13 +14,8 @@ public class Print_SI {
 		int SI=(p*r*t)/100;
 		
 		System.out.println(SI);
-				
-		}
-		
-		
-		
-		
 
 	}
+}
 
 
