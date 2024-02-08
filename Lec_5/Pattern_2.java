@@ -27,9 +27,7 @@ public class Pattern_2 {
 			
 			row=row+1;
 			
-			
-		}
-
-	}
+			}
+             }
 
 }
