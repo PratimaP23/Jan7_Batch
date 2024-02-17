@@ -1,7 +1,7 @@
 package Ass_1;
 import java.util.*;
 
-public class Ques_4_Ass {
+public class Ques_7_Ass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
