@@ -20,7 +20,7 @@ public class Pattern_14_Sheet {
 				System.out.print(" "+" ");
 				i=i+1;
 			}
-			//print the space
+			//print the star
 			int j=1;
 			while(j<=nst) {
 				System.out.print("*"+" ");
