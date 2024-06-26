@@ -14,8 +14,8 @@ public class Bin_to_Dec {
 //			
 //			int rem=n%10;          //des base
 //			ans=ans+rem*mul;     
-//			mul*=2;  //mul=mul*10  //src base
-//			n/=10;     //n=n/2     //des base
+//			mul*=2;  //mul=mul*2  //src base
+//			n/=10;     //n=n/10     //des base
 //		}
 //		
 //		System.out.println(ans);
@@ -30,8 +30,8 @@ public class Bin_to_Dec {
 			
 			int rem=n%10;          //des base
 			ans=ans+rem*mul;     
-			mul*=2;  //mul=mul*10  //src base
-			n/=10;     //n=n/2     //des base
+			mul*=2;  //mul=mul*2  //src base
+			n/=10;     //n=n/10     //des base
 		}
 		
 		System.out.println(ans);
